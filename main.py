@@ -49,3 +49,4 @@ for i in range(3):
 
 print(f"조사한 수학여행지는 {b}입니다.")
 
+print('hello')
